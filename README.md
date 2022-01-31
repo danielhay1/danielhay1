@@ -4,7 +4,7 @@
 
 
 <h3 align="left">About my repositories:</h3>
-You can find various mobile platform projects.
+You can find various mobile platform-based projects.
 All of my projects are free to use, please pay attention to the license and terms of each project.
 
 <h3 align="left">Connect with me:</h3>
