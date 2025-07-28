@@ -30,7 +30,6 @@ I'm a Mobile Developer specializing in native iOS and Android apps, leveraging c
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" title="Xcode" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" title="Android Studio" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Architecture-MVVM-blue?style=flat-square" alt="MVVM" title="MVVM" />
 </div>
 
 ---
